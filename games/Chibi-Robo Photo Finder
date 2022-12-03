@@ -1,0 +1,20 @@
+title = "Chibi-Robo! Photo Finder"
+description = "The game makes use of the Nintendo 3DS's augmented reality feature. Examples of gameplay include collecting objects known as "NostalJunk", clearing cleaning missions, purchasing silhouette films to have the ability to take a picture."
+github_issues = 
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "Chibi-Robo! Photo Finder"
+region = "usa"
+release_date = "2014-1-09"
+
+[[ releases ]]
+title = "Chibi-Robo! Let's Go Photo!"
+region = "pal"
+release_date = "2014-7-03"
+
+[[ releases ]]
+title = "Jissha de Chibi-Robo!"
+region = "jp"
+release_date = "2013-6-03"
